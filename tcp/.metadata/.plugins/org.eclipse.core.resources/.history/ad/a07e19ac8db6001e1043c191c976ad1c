@@ -1,0 +1,31 @@
+package com.example.demo.service;
+
+import java.time.LocalDateTime;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.example.demo.detaway.TcpClientGateway;
+
+public class MessageServiceImpl implements MessageService{
+	private TcpClientGateway tcpClientGateway;
+
+    @Autowired
+    public MessageServiceImpl(TcpClientGateway tcpClientGateway) {
+        this.tcpClientGateway = tcpClientGateway;
+    }
+
+    @Override
+    public void sendMessage() {
+        String message = LocalDateTime.now().toString();
+        System.out.print("Send message:" +  message);
+        byte[] responseBytes = tcpClientGateway.send(message.getBytes());
+        String response = new String(responseBytes);
+        System.out.print("Receive response: " +  response);
+    }
+    
+    public void sendMessagewithParameter(final String msg) {
+    	byte[] responseBytes = tcpClientGateway.send(msg.getBytes());
+        String response = new String(responseBytes);
+        System.out.print("Receive response: " +  response);
+    }
+}

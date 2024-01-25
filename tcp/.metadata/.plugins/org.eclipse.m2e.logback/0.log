@@ -1,0 +1,342 @@
+2023-11-27 18:35:26,584 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-27 18:36:01,853 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\Vio\Desktop\tcp\demo\demo\pom.xml.
+2023-11-27 18:36:02,229 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/3.2.0/spring-boot-starter-web-3.2.0.pom
+2023-11-27 18:36:02,296 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/3.2.0/spring-boot-starter-web-3.2.0.pom
+2023-11-27 18:36:02,894 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/3.2.0/spring-boot-starter-json-3.2.0.pom
+2023-11-27 18:36:02,981 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/3.2.0/spring-boot-starter-json-3.2.0.pom
+2023-11-27 18:36:03,017 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/6.1.1/spring-web-6.1.1.pom
+2023-11-27 18:36:03,105 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/6.1.1/spring-web-6.1.1.pom
+2023-11-27 18:36:03,286 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/3.2.0/spring-boot-starter-tomcat-3.2.0.pom
+2023-11-27 18:36:03,346 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/3.2.0/spring-boot-starter-tomcat-3.2.0.pom
+2023-11-27 18:36:03,386 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/10.1.16/tomcat-embed-core-10.1.16.pom
+2023-11-27 18:36:03,435 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/10.1.16/tomcat-embed-core-10.1.16.pom
+2023-11-27 18:36:03,472 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/10.1.16/tomcat-embed-el-10.1.16.pom
+2023-11-27 18:36:03,534 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/10.1.16/tomcat-embed-el-10.1.16.pom
+2023-11-27 18:36:03,571 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/10.1.16/tomcat-embed-websocket-10.1.16.pom
+2023-11-27 18:36:03,638 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/10.1.16/tomcat-embed-websocket-10.1.16.pom
+2023-11-27 18:36:03,686 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/6.1.1/spring-webmvc-6.1.1.pom
+2023-11-27 18:36:03,745 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/6.1.1/spring-webmvc-6.1.1.pom
+2023-11-27 18:36:04,371 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/3.2.0/spring-boot-starter-web-3.2.0.jar
+2023-11-27 18:36:04,375 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/3.2.0/spring-boot-starter-tomcat-3.2.0.jar
+2023-11-27 18:36:04,376 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/10.1.16/tomcat-embed-core-10.1.16.jar
+2023-11-27 18:36:04,431 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/3.2.0/spring-boot-starter-json-3.2.0.jar
+2023-11-27 18:36:04,432 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/10.1.16/tomcat-embed-el-10.1.16.jar
+2023-11-27 18:36:04,494 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/3.2.0/spring-boot-starter-web-3.2.0.jar
+2023-11-27 18:36:04,496 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/3.2.0/spring-boot-starter-tomcat-3.2.0.jar
+2023-11-27 18:36:04,531 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/3.2.0/spring-boot-starter-json-3.2.0.jar
+2023-11-27 18:36:04,607 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/10.1.16/tomcat-embed-websocket-10.1.16.jar
+2023-11-27 18:36:04,630 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/6.1.1/spring-web-6.1.1.jar
+2023-11-27 18:36:04,653 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/10.1.16/tomcat-embed-el-10.1.16.jar
+2023-11-27 18:36:04,684 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/6.1.1/spring-webmvc-6.1.1.jar
+2023-11-27 18:36:04,786 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/10.1.16/tomcat-embed-websocket-10.1.16.jar
+2023-11-27 18:36:04,786 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/10.1.16/tomcat-embed-core-10.1.16.jar
+2023-11-27 18:36:04,853 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/6.1.1/spring-webmvc-6.1.1.jar
+2023-11-27 18:36:04,877 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/6.1.1/spring-web-6.1.1.jar
+2023-11-27 18:36:06,305 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2023-11-27 18:36:06,305 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2023-11-27 18:36:06,314 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2023-11-27 18:36:06,324 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2023-11-27 18:36:07,116 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/3.2.0/spring-boot-starter-web-3.2.0-sources.jar
+2023-11-27 18:36:07,188 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/3.2.0/spring-boot-starter-web-3.2.0-sources.jar
+2023-11-27 18:36:07,192 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-web:3.2.0
+2023-11-27 18:36:07,338 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/3.2.0/spring-boot-starter-json-3.2.0-sources.jar
+2023-11-27 18:36:07,421 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/3.2.0/spring-boot-starter-json-3.2.0-sources.jar
+2023-11-27 18:36:07,424 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-json:3.2.0
+2023-11-27 18:36:07,548 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/3.2.0/spring-boot-starter-tomcat-3.2.0-sources.jar
+2023-11-27 18:36:07,732 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/3.2.0/spring-boot-starter-tomcat-3.2.0-sources.jar
+2023-11-27 18:36:07,734 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-tomcat:3.2.0
+2023-11-27 18:36:07,861 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/10.1.16/tomcat-embed-core-10.1.16-sources.jar
+2023-11-27 18:36:08,178 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/10.1.16/tomcat-embed-core-10.1.16-sources.jar
+2023-11-27 18:36:08,180 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-core:10.1.16
+2023-11-27 18:36:08,303 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/10.1.16/tomcat-embed-el-10.1.16-sources.jar
+2023-11-27 18:36:08,433 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/10.1.16/tomcat-embed-el-10.1.16-sources.jar
+2023-11-27 18:36:08,442 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-el:10.1.16
+2023-11-27 18:36:08,562 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/10.1.16/tomcat-embed-websocket-10.1.16-sources.jar
+2023-11-27 18:36:08,682 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/10.1.16/tomcat-embed-websocket-10.1.16-sources.jar
+2023-11-27 18:36:08,684 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-websocket:10.1.16
+2023-11-27 18:36:08,851 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/6.1.1/spring-web-6.1.1-sources.jar
+2023-11-27 18:36:09,067 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/6.1.1/spring-web-6.1.1-sources.jar
+2023-11-27 18:36:09,069 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:6.1.1
+2023-11-27 18:36:09,198 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/6.1.1/spring-webmvc-6.1.1-sources.jar
+2023-11-27 18:36:09,378 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/6.1.1/spring-webmvc-6.1.1-sources.jar
+2023-11-27 18:36:09,380 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:6.1.1
+2023-11-27 18:36:09,563 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2023-11-27 18:36:10,884 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-27 18:36:10,899 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-27 18:36:10,904 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-11-29 04:56:38,544 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-29 04:58:46,321 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-29 04:58:46,341 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-29 04:58:46,346 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-11-29 05:01:46,732 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-29 05:01:46,767 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-29 05:01:46,771 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-11-29 05:04:40,755 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-29 05:04:40,771 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-29 05:04:40,774 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-11-29 20:06:30,883 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-30 12:12:06,686 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-30 17:08:43,479 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-30 17:08:43,512 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-30 17:08:43,518 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 17:52:35,963 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-21 18:00:11,423 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:00:11,435 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:00:11,440 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:01:29,117 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:01:29,121 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:01:29,125 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:01:33,348 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:01:33,353 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:01:33,356 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:01:46,457 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:01:46,468 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:01:46,471 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:02:14,368 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:02:14,381 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:02:14,384 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:02:25,630 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:02:25,641 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:02:25,644 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:02:39,135 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:02:39,152 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:02:39,152 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:03:03,773 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:03:03,779 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:03:03,784 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:03:10,594 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:03:10,611 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:03:10,616 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:03:34,205 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:03:34,218 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:03:34,222 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:04:15,375 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:04:15,390 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:04:15,394 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:04:32,659 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:04:32,670 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:04:32,675 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:04:42,566 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:04:42,575 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:04:42,579 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:04:54,191 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:04:54,202 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:04:54,205 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:05:34,446 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:05:34,468 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:05:34,472 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:05:53,107 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:05:53,118 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:05:53,121 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:06:38,945 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\Vio\Desktop\tcp\demo\demo\pom.xml.
+2023-12-21 18:06:39,627 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.1.1/spring-tx-6.1.1.jar
+2023-12-21 18:06:39,642 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/retry/spring-retry/2.0.4/spring-retry-2.0.4.jar
+2023-12-21 18:06:39,642 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-ip/6.2.0/spring-integration-ip-6.2.0.jar
+2023-12-21 18:06:39,643 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-core/6.2.0/spring-integration-core-6.2.0.jar
+2023-12-21 18:06:39,713 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/6.1.1/spring-messaging-6.1.1.jar
+2023-12-21 18:06:41,845 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/retry/spring-retry/2.0.4/spring-retry-2.0.4.jar
+2023-12-21 18:06:42,353 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.6.0/reactor-core-3.6.0.jar
+2023-12-21 18:06:42,788 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-ip/6.2.0/spring-integration-ip-6.2.0.jar
+2023-12-21 18:06:42,843 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.1.1/spring-tx-6.1.1.jar
+2023-12-21 18:06:43,384 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.jar
+2023-12-21 18:06:43,911 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.jar
+2023-12-21 18:06:43,917 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/6.1.1/spring-messaging-6.1.1.jar
+2023-12-21 18:06:46,114 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-core/6.2.0/spring-integration-core-6.2.0.jar
+2023-12-21 18:06:46,184 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.6.0/reactor-core-3.6.0.jar
+2023-12-21 18:06:46,521 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:06:46,521 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:06:46,525 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:06:47,638 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-ip/6.2.0/spring-integration-ip-6.2.0-sources.jar
+2023-12-21 18:06:48,311 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-ip/6.2.0/spring-integration-ip-6.2.0-sources.jar
+2023-12-21 18:06:48,314 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.integration:spring-integration-ip:6.2.0
+2023-12-21 18:06:48,473 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-core/6.2.0/spring-integration-core-6.2.0-sources.jar
+2023-12-21 18:06:49,463 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-core/6.2.0/spring-integration-core-6.2.0-sources.jar
+2023-12-21 18:06:49,468 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.integration:spring-integration-core:6.2.0
+2023-12-21 18:06:49,625 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/6.1.1/spring-messaging-6.1.1-sources.jar
+2023-12-21 18:06:49,988 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/6.1.1/spring-messaging-6.1.1-sources.jar
+2023-12-21 18:06:49,999 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-messaging:6.1.1
+2023-12-21 18:06:50,166 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.1.1/spring-tx-6.1.1-sources.jar
+2023-12-21 18:06:50,410 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.1.1/spring-tx-6.1.1-sources.jar
+2023-12-21 18:06:50,415 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:6.1.1
+2023-12-21 18:06:50,561 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/retry/spring-retry/2.0.4/spring-retry-2.0.4-sources.jar
+2023-12-21 18:06:50,753 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/retry/spring-retry/2.0.4/spring-retry-2.0.4-sources.jar
+2023-12-21 18:06:50,758 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.retry:spring-retry:2.0.4
+2023-12-21 18:06:50,960 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.6.0/reactor-core-3.6.0-sources.jar
+2023-12-21 18:06:52,881 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.6.0/reactor-core-3.6.0-sources.jar
+2023-12-21 18:06:52,884 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor:reactor-core:3.6.0
+2023-12-21 18:06:53,073 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4-sources.jar
+2023-12-21 18:06:53,244 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4-sources.jar
+2023-12-21 18:06:53,257 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.reactivestreams:reactive-streams:1.0.4
+2023-12-21 18:09:47,720 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:09:47,734 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:09:47,736 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:13:00,527 [Worker-25: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:13:00,555 [Worker-25: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:13:00,559 [Worker-25: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:20:57,298 [Worker-30: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:20:57,312 [Worker-30: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:20:57,316 [Worker-30: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 18:48:05,807 [Worker-38: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 18:48:05,824 [Worker-38: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 18:48:05,829 [Worker-38: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 20:39:30,413 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-21 20:42:05,509 [Worker-8: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 20:42:05,540 [Worker-8: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 20:42:05,547 [Worker-8: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 20:43:01,668 [Worker-13: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 20:43:01,690 [Worker-13: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 20:43:01,697 [Worker-13: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 20:45:29,884 [Worker-8: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 20:45:29,895 [Worker-8: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 20:45:29,898 [Worker-8: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 20:52:42,813 [Worker-27: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 20:52:42,820 [Worker-27: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 20:52:42,824 [Worker-27: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 20:53:22,369 [Worker-25: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 20:53:22,376 [Worker-25: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 20:53:22,380 [Worker-25: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-21 20:57:49,460 [Worker-24: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-21 20:57:49,472 [Worker-24: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-21 20:57:49,477 [Worker-24: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2023-12-23 12:50:56,234 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-12-26 12:45:39,638 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-01-13 13:23:45,979 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-01-14 11:14:11,263 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-14 12:15:15,931 [Worker-23: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-14 12:15:16,021 [Worker-23: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-14 12:15:16,025 [Worker-23: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-16 05:24:03,721 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-01-16 09:14:46,616 [Worker-23: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-16 09:14:46,715 [Worker-23: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-16 09:14:46,719 [Worker-23: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-16 18:38:46,939 [Worker-41: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-16 18:38:46,977 [Worker-41: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-16 18:38:46,980 [Worker-41: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-16 18:43:37,761 [Worker-50: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-16 18:43:37,769 [Worker-50: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-16 18:43:37,775 [Worker-50: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-16 18:46:32,614 [Worker-51: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-16 18:46:32,625 [Worker-51: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-16 18:46:32,629 [Worker-51: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-16 18:50:56,184 [Worker-52: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-16 18:50:56,189 [Worker-52: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-16 18:50:56,191 [Worker-52: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-16 18:51:31,305 [Worker-43: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-16 18:51:31,313 [Worker-43: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-16 18:51:31,318 [Worker-43: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-16 18:57:50,119 [Worker-43: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-16 18:57:50,134 [Worker-43: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-16 18:57:50,140 [Worker-43: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-16 19:05:52,542 [Worker-57: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-16 19:05:52,551 [Worker-57: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-16 19:05:52,558 [Worker-57: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-16 19:09:08,088 [Worker-60: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-16 19:09:08,097 [Worker-60: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-16 19:09:08,102 [Worker-60: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-17 11:01:36,303 [Worker-66: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-17 11:01:36,529 [Worker-66: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-17 11:01:36,534 [Worker-66: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-17 11:07:43,609 [Worker-73: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-17 11:07:43,626 [Worker-73: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-17 11:07:43,631 [Worker-73: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-17 11:08:47,657 [Worker-73: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-17 11:08:47,667 [Worker-73: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-17 11:08:47,671 [Worker-73: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-17 11:09:29,277 [Worker-71: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-17 11:09:29,286 [Worker-71: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-17 11:09:29,290 [Worker-71: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-17 11:12:20,275 [Worker-74: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-17 11:12:20,289 [Worker-74: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-17 11:12:20,292 [Worker-74: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-17 13:45:32,445 [Worker-72: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-17 13:45:32,459 [Worker-72: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-17 13:45:32,465 [Worker-72: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-18 06:44:58,903 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-01-18 11:14:18,524 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-19 07:17:35,393 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-01-19 07:19:16,506 [Worker-15: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-19 07:19:16,533 [Worker-15: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-19 07:19:16,538 [Worker-15: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-19 07:43:36,815 [Worker-27: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-19 07:43:36,840 [Worker-27: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-19 07:43:36,845 [Worker-27: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-19 17:02:12,160 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-19 17:23:49,436 [Worker-25: Launching DemoApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\Vio\Desktop\tcp\demo\demo\pom.xml.
+2024-01-19 17:23:49,588 [Worker-25: Launching DemoApplication] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.integration:spring-integration-java-dsl:jar:5.1.0.RELEASE is missing, no dependency information available
+2024-01-19 17:23:50,406 [Worker-25: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-19 17:23:50,421 [Worker-25: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-19 17:23:50,424 [Worker-25: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-19 17:23:51,872 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-java-dsl/5.1.0.RELEASE/spring-integration-java-dsl-5.1.0.RELEASE-sources.jar
+2024-01-19 17:23:51,884 [Worker-28: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.integration:spring-integration-java-dsl:5.1.0.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.integration:spring-integration-java-dsl:jar:sources:5.1.0.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:584)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:553)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:538)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-01-19 17:32:18,802 [Worker-26: Launching DemoApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\Vio\Desktop\tcp\demo\demo\pom.xml.
+2024-01-19 17:32:19,254 [Worker-26: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-19 17:32:19,255 [Worker-26: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-19 17:32:19,260 [Worker-26: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-19 17:33:00,427 [Worker-32: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-19 17:33:00,453 [Worker-32: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-19 17:33:00,457 [Worker-32: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-19 17:34:38,326 [Worker-26: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-19 17:34:38,359 [Worker-26: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-19 17:34:38,364 [Worker-26: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-19 17:34:53,670 [Worker-29: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-19 17:34:53,678 [Worker-29: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-19 17:34:53,684 [Worker-29: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-19 17:36:43,504 [Worker-29: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-19 17:36:43,513 [Worker-29: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-19 17:36:43,518 [Worker-29: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-20 08:24:29,995 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-01-20 17:18:45,083 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-22 02:36:54,105 [Worker-33: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-22 02:36:54,245 [Worker-33: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-22 02:36:54,249 [Worker-33: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-22 02:38:27,627 [Worker-34: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-22 02:38:27,702 [Worker-34: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-22 02:38:27,706 [Worker-34: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-22 02:40:18,812 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-01-23 19:22:43,608 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-23 19:26:05,425 [Worker-22: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-23 19:26:05,455 [Worker-22: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-23 19:26:05,462 [Worker-22: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-23 19:38:41,431 [Worker-9: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-23 19:38:41,441 [Worker-9: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-23 19:38:41,447 [Worker-9: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-23 19:41:06,039 [Worker-28: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-23 19:41:06,052 [Worker-28: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-23 19:41:06,057 [Worker-28: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-23 19:42:17,064 [Worker-28: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-23 19:42:17,070 [Worker-28: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-23 19:42:17,074 [Worker-28: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-24 05:42:43,154 [Worker-35: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 05:42:43,281 [Worker-35: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 05:42:43,302 [Worker-35: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-24 05:43:40,022 [Worker-38: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 05:43:40,036 [Worker-38: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 05:43:40,042 [Worker-38: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-25 07:42:38,563 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-01-25 10:35:56,305 [Worker-40: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-25 10:35:56,331 [Worker-40: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-25 10:35:56,337 [Worker-40: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-25 10:41:54,244 [Worker-42: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-25 10:41:54,249 [Worker-42: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-25 10:41:54,254 [Worker-42: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources
+2024-01-25 10:44:38,740 [Worker-41: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-25 10:44:38,744 [Worker-41: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-25 10:44:38,747 [Worker-41: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Vio\Desktop\tcp\demo\demo\src\test\resources

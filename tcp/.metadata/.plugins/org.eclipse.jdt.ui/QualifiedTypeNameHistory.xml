@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.scheduling.annotation.EnableScheduling"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationEventPublisherAware"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationEventPublisher"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="com.example.demo.detaway.TcpClientGateway"/>
+    <fullyQualifiedTypeName name="org.springframework.integration.ip.tcp.connection.AbstractClientConnectionFactory"/>
+    <fullyQualifiedTypeName name="org.springframework.integration.ip.tcp.connection.CachingClientConnectionFactory"/>
+    <fullyQualifiedTypeName name="org.springframework.messaging.MessageChannel"/>
+    <fullyQualifiedTypeName name="org.springframework.integration.annotation.ServiceActivator"/>
+    <fullyQualifiedTypeName name="org.springframework.messaging.MessageHandler"/>
+    <fullyQualifiedTypeName name="org.springframework.integration.annotation.MessagingGateway"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.integration.dsl.IntegrationFlow"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.DependsOn"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.ApplicationRunner"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="com.example.demo.service.MessageService"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+</qualifiedTypeNameHistroy>

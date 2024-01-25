@@ -1,0 +1,29 @@
+package com.example.demo;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import com.example.demo.service.MessageServiceImpl;
+import com.example.demo.detaway.TcpClientGateway;
+import com.example.demo.service.MessageService;
+
+@SpringBootApplication
+public class DemoApplication {
+	
+	private static TcpClientGateway tcpClientGateway;
+
+    @Autowired
+    public DemoApplication(TcpClientGateway tcpClientGateway) {
+        this.tcpClientGateway = tcpClientGateway;
+    }
+
+	public static void main(String[] args) {
+		SpringApplication.run(DemoApplication.class, args);
+		System.out.print("zarzavat");
+		System.out.print("");
+		MessageServiceImpl mimpl = new MessageServiceImpl(tcpClientGateway);
+		mimpl.sendMessage();
+		System.out.print("zarzavat2");
+	}
+
+}

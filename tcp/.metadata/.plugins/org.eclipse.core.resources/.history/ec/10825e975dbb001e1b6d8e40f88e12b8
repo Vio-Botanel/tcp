@@ -1,0 +1,4 @@
+tcp.server.host=localhost
+tcp.server.port=8083
+tcp.client.connection.poolSize=50
+server.port=8085
