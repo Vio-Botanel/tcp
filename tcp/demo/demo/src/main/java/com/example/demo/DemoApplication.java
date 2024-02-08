@@ -18,7 +18,6 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-		System.out.print("zarzavat");
 		//System.out.print("");
 		//MessageServiceImpl mimpl = new MessageServiceImpl(tcpClientGateway);
 		//mimpl.sendMessagewithParameter("asdasdafwartgwb5gydryeysr");
