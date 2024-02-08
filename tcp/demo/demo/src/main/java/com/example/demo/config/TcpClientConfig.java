@@ -33,6 +33,7 @@ public class TcpClientConfig implements ApplicationEventPublisherAware {
 
     @Value("${tcp.server.port}")
     private int port;
+    ///
 
     @Value("${tcp.client.connection.poolSize}")
     private int connectionPoolSize;
