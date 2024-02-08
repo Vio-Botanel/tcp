@@ -78,7 +78,7 @@ public class TcpClientConfig implements ApplicationEventPublisherAware {
                if ("exit".equalsIgnoreCase(message)) {
                    break;
                }
-               System.out.println(LocalDate.now() + " Sent message: " + message);
+//               System.out.println(LocalDate.now() + " Sent message: " + message);
                messageService.sendMessage(message);
            }
            scanner.close();
